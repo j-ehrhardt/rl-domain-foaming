@@ -1,0 +1,30 @@
+# Python caches and generated metadata
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Local environments and build output
+.venv/
+venv/
+build/
+dist/
+.env
+.env.*
+!.env.example
+
+# Experiment output
+logs/
+runs/
+checkpoints/
+wandb/
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
