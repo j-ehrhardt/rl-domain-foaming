@@ -5,8 +5,8 @@ An agent chooses manufacturing operations and their continuous control settings,
 finishes every glass within a processing-time budget, and meets per-glass foam
 quality targets.
 
-The planning domain is based on the [source thesis on openHSU, publication
-24927](https://openhsu.ub.hsu-hh.de/entities/publication/24927). The transition
+The planning domain is based on the evaluation domain in this [thesis](https://openhsu.ub.hsu-hh.de/entities/publication/24927). 
+The transition
 equations were adapted from the OCTANE foaming domain. This repository provides
 the sequential RL adaptation with synthetic reference dynamics.
 
